@@ -46,5 +46,5 @@ The Random Forest model identified the specific variables that strongly impact c
 
 ## 📁 Repository File Structure
 * `Churn_Modelling.csv` - The source structural banking dataset used for feature mining.
-* `Customer_Churn_Prediction.ipynb` - Clean, comment-annotated Jupyter Notebook documenting data preparation scripts, model configurations, and output visualizations.
+* `task_3file` - Clean, comment-annotated Jupyter Notebook documenting data preparation scripts, model configurations, and output visualizations.
 * `README.md` - Executive summary documentation.
